@@ -1,0 +1,9 @@
+7
+4
+
+
+C L X H
+H D C D
+L L D X
+L C X H
+C H D X

@@ -1,0 +1,8 @@
+10
+4
+W Q R Q
+Q E T R
+T R T Y
+W W R W
+Y Y E Q
+E E T Y
